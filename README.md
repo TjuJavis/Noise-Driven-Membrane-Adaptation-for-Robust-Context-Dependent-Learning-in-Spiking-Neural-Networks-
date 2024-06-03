@@ -8,7 +8,7 @@
 
 这项研究不仅加深了我对神经科学理解，也展示了在机器学习领域的潜力。我领导团队克服了噪声挑战，优化算法设计、执行实验，提高了SNN在复杂情境学习，推动了神经网络的噪声环境下的应用。我的队长经历体现了我领导、科研与实践能力，为神经网络与AI的未来应用奠定了坚实基础。
 
-References
+**References**
 
 [1]	Yang S, Pang Y, Wang H, et al. Spike-driven multi-scale learning with hybrid mechanisms of spiking dendrites[J]. Neurocomputing, 2023, 542: 126240.
 
